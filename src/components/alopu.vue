@@ -46,7 +46,7 @@ export default {
       priceUnits: this.$store.state.priceUnits,
       currencies: this.$store.state.currencies,
       urls: [
-        "http://alopu.src/forum",
+        "http://alopu.com/forum",
         "http://lopu.com.au",
         "http://agora.lopu.com.au"
       ],
